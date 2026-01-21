@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # 📦 Adaptive Demand Prediction Using Time Series and Machine Learning Models to Improve Supply Chain Efficiency
 
 **Final Project Data Science**
@@ -116,7 +118,7 @@ final_project/
 
 ## 🌐 Live Demo
 
-🔗 **Streamlit App:** _(add your deployed URL here)_
+🔗 **Streamlit App:** [https://finalprojectds36-exbpxdfwqti4yvxmmefafw.streamlit.app/]
 
 ---
 
@@ -137,4 +139,8 @@ Final Project – Data Scientist
 
 ## ⭐ Acknowledgement
 
-If you find this project useful, feel free to give it a ⭐ on GitHub.
+# If you find this project useful, feel free to give it a ⭐ on GitHub.
+
+# finalprojectDS36
+
+> > > > > > > 0217c4d0d8d677d021e957dcd1ae471abf1b809f
